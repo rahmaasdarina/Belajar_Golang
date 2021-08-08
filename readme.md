@@ -1,1 +1,1 @@
-Latihan Golang
+Start to learn golang with digitalent
