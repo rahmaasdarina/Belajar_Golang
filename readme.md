@@ -1,1 +1,1 @@
-Start to learn golang with digitalent
+Learn golang with digitalent
